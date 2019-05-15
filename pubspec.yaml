@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   extended_image_library: 
-    git : https://github.com/lisen87/extended_image_library
+    git : https://github.com/lisen87/extended_image_library.git
 
 dev_dependencies:
   flutter_test:
